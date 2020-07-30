@@ -50,7 +50,7 @@ Yeee now you have succesfully imported the work flow.
 7. Now paste the coppied data in to the body and click `Next` and then `Done`.
 ![image](https://user-images.githubusercontent.com/60179170/88923761-dab9fe00-d28f-11ea-8565-6b267d86953b.png)
 8. Now run the workflow it will give you output in the logger. Here you can see the sum result of number 1 and number 2.<br/>
-![image](https://user-images.githubusercontent.com/60179170/88919992-ad6a5180-d289-11ea-94c6-8ffa9806f743.png)
+![image](https://user-images.githubusercontent.com/60179170/88924135-7481ab00-d290-11ea-9d04-2c49a663c5d2.png)
 
 ### Test With other input:
 1. Open the weebhook and change the data inside the body. <b> Donot change the key value and the formte of the data. ie. "num1", "num2" are key here and formate of the data is integer </b>.<br/>
